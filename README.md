@@ -1,19 +1,28 @@
-# TF_Object_Detection2020
 
-***This project heavily relies on the processes and code from TensorFlow and sentdex's tutorial on YouTube***
--------------------------------------------------------------------------------------------------------------
-***Support for object detection in TensorFlow 2 was just released. As of now, this repository is based on TF1***
+# Bear-orientation-detection-model
+## Goal
+The goal of this project was to create a machine learning model using  trained on a specific teddy bear to identify 6 angles (Front, Left Side, Right Side, Back, Top and Bottom).
+This project was conducted for my semester 4 Open Learning project within 2 weeks.
 
-I'm currently working on a research project for my univeristy that requires object detection. I was following along with sentdex's tutorial on YouTube, but many things have changed since then and lots of work arounds are needed for it to function. This repository is the work I've done so far to make it work in 2020. There are many things in here that are outdated - even for tensorflow 1.x.x, but I wanted to keep it as close to the tutorial as posssible.
+![Bear-Front](https://user-images.githubusercontent.com/78371221/215829614-e015d264-bfef-46d1-9600-6194ce81bebf.gif)
+##### Model identifying the Front of the Bear.
 
-I've now made my own YouTube tutorial following the process of seting up object detection in 2020. You can watch this video here: https://www.youtube.com/watch?v=usR2LQuxhL4
+![Bear-Right](https://user-images.githubusercontent.com/78371221/215840234-47718917-6c50-4e1f-b1f8-ef3cd747985f.gif)
+##### Model identifying the Right Side of the Bear.
 
-![Video Thumbnail](https://github.com/Bengemon825/TF_Object_Detection2020/blob/master/other/tensorflow%20object%20detection%20tutorial.jpg)
+![Bear-Left](https://user-images.githubusercontent.com/78371221/215840260-577f12d8-d0b0-4a55-8aa1-70d2c428ca9b.gif)
+##### Model identifying the Left Side of the Bear.
 
-Video for setting up a custom model: https://youtu.be/C5-SEZ_IvaM
+![Bear-Back](https://user-images.githubusercontent.com/78371221/215840296-bb2002e1-63d4-456f-9e29-d388932a2380.gif)
+##### Model identifying the Back of the Bear.
 
-![Video Thumbnail2](https://github.com/Bengemon825/TF_Object_Detection2020/blob/master/other/object%20detection%20-%20custom%20model.jpg)
+![Bear-Top](https://user-images.githubusercontent.com/78371221/215828695-424cb29b-66ec-4178-9f33-8c2f94d55e71.gif)
+##### Model identifying the Top of the Bear.
 
-Video on training a custom model: https://youtu.be/_gGI91BmIdk
+![Bear-Bottom](https://user-images.githubusercontent.com/78371221/215838378-86db2bfd-9677-4c6a-a041-78b0c602e1d0.gif)
+##### Model identifying the Bottom of the Bear.
 
-![Video Thumbnail3](https://github.com/Bengemon825/TF_Object_Detection2020/blob/master/other/object%20detection%20-%20training.jpg)
+## Sources
+With the help of Lazy Tech channel I was able to implement the model and train it on the subject used for this project [TensorFlow Object Detection](https://www.youtube.com/watch?v=usR2LQuxhL4&list=PLAs-3cqyNbIjGzf50LckxBndLCd1EgB0w) 
+.
+
