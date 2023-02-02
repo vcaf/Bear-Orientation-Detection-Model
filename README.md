@@ -4,8 +4,8 @@
 The goal of this project was to create a machine learning model using  trained on a specific teddy bear to identify 6 angles (Front, Left Side, Right Side, Back, Top and Bottom).
 This project was conducted for my semester 4 Open Learning project within 2 weeks.
 
-![Bear-Front](https://user-images.githubusercontent.com/78371221/215829614-e015d264-bfef-46d1-9600-6194ce81bebf.gif)
-##### Model identifying the Front of the Bear.
+#### Model identifying the Front of the Bear.
+<img src="https://user-images.githubusercontent.com/78371221/215829614-e015d264-bfef-46d1-9600-6194ce81bebf.gif" width="500" height="500">
 
 ![Bear-Right](https://user-images.githubusercontent.com/78371221/215840234-47718917-6c50-4e1f-b1f8-ef3cd747985f.gif)
 ##### Model identifying the Right Side of the Bear.
