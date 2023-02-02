@@ -5,6 +5,7 @@ The goal of this project was to create a machine learning model using  trained o
 This project was conducted for my semester 4 Open Learning project within 2 weeks.
 
 #### Model identifying the Front of the Bear.
+<img src="https://user-images.githubusercontent.com/78371221/216368718-3f7a75b7-9b9e-4dd8-8408-4e6522dcf96e.gif" width="300" height="300">
 
 ##### Model identifying the Right Side of the Bear.
 <img src="https://user-images.githubusercontent.com/78371221/215840234-47718917-6c50-4e1f-b1f8-ef3cd747985f.gif" width="300" height="300">
